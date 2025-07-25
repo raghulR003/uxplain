@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "ui-context": {
+      "command": "node",
+      "args": ["/Users/raghul-23609/Desktop/Uxplain/2_CODE/ui-context-mcp-server/dist/index.js"],
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
